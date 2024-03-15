@@ -1,0 +1,50 @@
+.frontpage {
+    text-align: center;
+    background-color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: large;
+    list-style-position: inside;
+    line-height: 30px;
+}
+
+h2 {
+    border-style: none;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+#MacCheese {
+    background-color: gold;
+}
+
+#grilledcheese {
+    background-color: tomato;
+}
+
+#lemondrop {
+    background-color: yellowgreen;
+}
+
+.homelink {
+    color: mediumblue;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.greenbg {
+    background-color: forestgreen;
+    border-style: solid;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-color: black;
+}
+
+.description {
+    font-size: 20px;
+}
